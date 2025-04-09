@@ -11,13 +11,13 @@
 
 <div align="center">
   
-## <h2>Introduce</h2>
+## <h2>🚀About Me</h2>
   
 🤵 My Name **Ikhsan**.<br>
 🖊️ Im a _beginner_ Programmers from Indonesia 🇮🇩 .<br>
 📚 In my spare time. I learn some programming languages.<br>
 
-<br>
+---
 
 ### <h3 align="center"> Github Statistic ⚙️</h3>
 <p align="center">
@@ -26,7 +26,9 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IkhsanDzul&layout=compact&layout=compact&theme=algolia"/>
 </a>
 </p>
+
 ---
+
 ### <h3 align="center">🧰 Tools and Languanges</h3>
 <div align="center" style="display:flex; justify-content:center;">
   <img src="https://github.com/IkhsanDzul/devicon/blob/master/icons/vscode/vscode-original.svg" width=40>
@@ -46,7 +48,5 @@
 <hr>
 #### Source
 Icon : <a href="https://github.com/devicons/devicon/">DevIcon Github Repository</a>
-<!--
-![anime-windows11](https://github.com/user-attachments/assets/f6c5e8b0-eed4-4a9f-ba41-e08da2d1be61)
--->
+
 
