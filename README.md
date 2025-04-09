@@ -26,7 +26,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IkhsanDzul&layout=compact&layout=compact&theme=algolia"/>
 </a>
 </p>
-
+---
 ### <h3 align="center">🧰 Tools and Languanges</h3>
 <div align="center" style="display:flex; justify-content:center;">
   <img src="https://github.com/IkhsanDzul/devicon/blob/master/icons/vscode/vscode-original.svg" width=40>
