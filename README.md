@@ -10,10 +10,8 @@
 
 <div align="center">
   
-<h2>🚀About Me</h2>
-  
 🤵 My Name **Ikhsan**.<br>
-🖊️ Im a _beginner_ Programmers from Indonesia 🇮🇩 .<br>
+🖊️ Im a Programmers from Indonesia 🇮🇩 .<br>
 📚 In my spare time. I learn some programming languages.<br>
 
 ---
