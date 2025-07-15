@@ -17,6 +17,8 @@
 🤵 My Name **Ikhsan**.<br>
 🖊️ Im a Programmers from Indonesia 🇮🇩 .<br>
 📚 In my spare time. I learn some programming languages.<br>
+🌱 I’m currently learning **Golang**. <br>
+⚡ Fun fact: I love tech, games, and memes 👾<br>
 
 # <h3 align="center">⚙️Github Statistic</h3>
 <p align="center">
