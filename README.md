@@ -48,11 +48,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=IkhsanDzul&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=IkhsanDzul&theme=tokyonight&hide_border=true&background=1a1b27" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MIkhsanDzul&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MIkhsanDzul&theme=tokyonight&hide_border=true&background=1a1b27" />
 </p>
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IkhsanDzul&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MIkhsanDzul&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
 </p>
 
 ---
