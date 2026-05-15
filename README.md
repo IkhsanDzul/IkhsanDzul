@@ -48,15 +48,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MIkhsanDzul" />
-  </a>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MIkhsanDzul&layout=compact&langs_count=8&card_width=320" />
-  </a>
-</p>
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MIkhsanDzul&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ikhsandzul&theme=dark&border_radius=6&short_numbers=true&mode=weekly" alt="GitHub Streak" /></a>
 </p>
 
 ---
