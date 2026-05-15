@@ -20,7 +20,6 @@
 - 🔭 I’m currently developing **multi-tenant SaaS platforms (POS, F&B, HRMS) and SPP Online systems.**
 - 💻 My go-to stack includes **Laravel, Blade, Tailwind CSS, and JWT Authentication.**
 - 🌱 I’m currently learning **Golang** and exploring **procedural generation in Roblox Studio.**
-- 🐧 Proud daily driver of **Arch Linux (CachyOS)**.
 - 📫 How to reach me: **ikhsandzulhannan@gmail.com**
 - ⚡ Fun fact: I love tech, games, and memes 👾
 
@@ -41,7 +40,6 @@
 **Databases & Environment**
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
